@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../cuadratica"
+		},
+		{
+			"name": "LEDS",
+			"path": "../../LEDS"
+		},
+		{
+			"name": "EJERCICIO2",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
